@@ -48,7 +48,6 @@
 
 <h3 align="left">Support:</h3>
 <p align="left">
-  <a href="https://www.buymeacoffee.com/rathoreashish146@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
   <a href="https://ko-fi.com/rathoreashish146@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" /></a>
 </p>
 
