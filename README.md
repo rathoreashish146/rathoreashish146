@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Passionate Machine Learning Enthusiast | AI Research Intern | Innovator</h3>
+
 **📧 Email:** [rathoreashish146@gmail.com](mailto:rathoreashish146@gmail.com)  
 **🔗 LinkedIn:** [linkedin.com/in/rathore-ashish-k76](https://www.linkedin.com/in/rathore-ashish-k76)  
 
 ## 🎯 Career Objective
 
 Driven Machine Learning enthusiast with hands-on experience in real-time stock prediction, LLM integration, and multimodal recommendation systems. Seeking to leverage my expertise in AI/ML and data science in a dynamic and innovative environment.
-
 
 ## ⚡ Fun fact
 
@@ -24,13 +24,12 @@ I love exploring new things and experimenting with them in my spare time!
 
 - 🔭 Currently working on **Developing real-time stock prediction models** for NSE (National Stock Exchange) at Charpixel Technologies.
 - 🌱 Actively learning **Advanced techniques in Deep Learning and Neural Networks**, **Generative Adversarial Networks (GANs)**, **MLOps**, and **Natural Language Processing (NLP)** optimization.
-- 👯 I’m looking to collaborate on
-
-- Open-source projects related to AI/ML applications
-- Research projects involving innovative use of Large Language Models
-- Startups focusing on AI-driven solutions in healthcare, finance, or robotics.
+- 👯 I’m looking to collaborate on:
+  - Open-source projects related to AI/ML applications
+  - Research projects involving innovative use of Large Language Models
+  - Startups focusing on AI-driven solutions in healthcare, finance, or robotics.
 - 🤝 Seeking help with **Integrating Large Language Models (LLMs) into robot systems** at Indian Institute of Science (IISc).
--💬 Let's chat over coffee about anything from Machine Learning, Real-time Stock Prediction, and Large Language Models (LLMs), to GANs and NLP!
+- 💬 Let's chat over coffee about anything from Machine Learning, Real-time Stock Prediction, and Large Language Models (LLMs), to GANs and NLP!
 - 📝 Regularly write articles on [LinkedIn](https://www.linkedin.com/in/rathore-ashish-k76).
 
 ### 💼 Experience
@@ -119,7 +118,6 @@ _GPA: 8.57_
 - Rank 1 in Agra in Baluni Spardha Test and won ₹10,000 cash prize in 2020
 - Received 100% scholarship for class 11th from Baluni Classes, Agra, Uttar Pradesh, India
 - Received 100% scholarship for class 12th from Baluni Classes, Agra, Uttar Pradesh, India
-
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
