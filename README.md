@@ -1,143 +1,48 @@
-# 👨‍💻 Ashish Rathore
+<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h3 align="center">Passionate Machine Learning Enthusiast and Innovative Problem Solver</h3>
 
-**📍 Location:** Taj Nagri, Agra, Uttar Pradesh, India  
-**📧 Email:** [rathoreashish146@gmail.com](mailto:rathoreashish146@gmail.com)  
-**🔗 LinkedIn:** [linkedin.com/in/rathore-ashish-k76](https://www.linkedin.com/in/rathore-ashish-k76)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathoreashish146&label=Profile%20views&color=0e75b6&style=flat" alt="rathoreashish146" /> </p>
 
-![Profile Image](https://via.placeholder.com/150)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathoreashish146" alt="rathoreashish146" /></a> </p>
 
-## 🎯 Career Objective
+- 🔭 I’m currently working on ****Developing real-time stock prediction models** for NSE (National Stock Exchange) to forecast stock prices and market trends at Charpixel Technologies.**
 
-Driven Machine Learning enthusiast with hands-on experience in real-time stock prediction, LLM integration, and multimodal recommendation systems. Seeking to leverage my expertise in AI/ML and data science in a dynamic and innovative environment.
+- 🌱 I’m currently learning **- Advanced techniques in **Deep Learning** and **Neural Networks**. - Cutting-edge developments in **Generative Adversarial Networks (GANs)**. - Optimization strategies for **Natural Language Processing (NLP)** models. - Implementing **MLOps** for scalable machine learning solutions. - Enhancements in **Reinforcement Learning** for real-world applications.**
 
-## 💼 Experience
+- 👯 I’m looking to collaborate on **Project of Machine Learning**
 
-### Charpixel Technologies
-**Machine Learning Intern**  
-📍 _Noida, Uttar Pradesh_  
-🗓️ _June 2024 – Present_  
-- Developing real-time stock prediction models for NSE (National Stock Exchange) to forecast stock prices and market trends.
-- Conducting comprehensive time series analyses on historical NSE data, incorporating news sentiment analysis.
+- 🤝 I’m looking for help with ****Integrating Large Language Models (LLMs)** into four-legged robots as the cognitive core of robot systems at Indian Institute of Science (IISc).**
 
-### Indian Institute of Science (IISc)
-**Summer Research Intern**  
-📍 _Bangalore_  
-🗓️ _June 2024 – Present_  
-- Working on the integration of Large Language Models (LLMs) into four-legged robots as the cognitive core of robot systems, leveraging Gen AI's exceptional capabilities. Supervised by Prof. Shishir N. Y. Kolathaya.
+- 👨‍💻 All of my projects are available at [https://github.com/rathoreashish146](https://github.com/rathoreashish146)
 
-### SONY Research India Private Limited
-**Research Intern at IIT Patna - Collaborative Project with SONY Research India**  
-📍 _Patna, Bihar_  
-🗓️ _Jan 2024 – Present_  
-- Working on Novel Multi-modal Recommendation Systems for Online Video Recommendation using Large Language Models under the guidance of Dr. Sriparna Saha.
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rathore-ashish-k76](https://www.linkedin.com/in/rathore-ashish-k76)
 
-### Indian Institute of Technology, Roorkee
-**Winter Research Intern**  
-📍 _Roorkee, Uttarakhand_  
-🗓️ _Jan 2024 – Present_  
-- Leading groundbreaking research on stress detection and multilevel classification using ECG and EEG signals, pioneering a novel approach tailored to specified genders under the guidance of Prof. Sparsh Mittal.
+- 💬 Ask me about **- Machine Learning and AI techniques - Real-time stock prediction models - Large Language Models (LLMs) - Multimodal recommendation systems - Stress detection using ECG and EEG signals - Generative Adversarial Networks (GANs) - Developing chatbots and conversational AI**
 
-### Indian Institute of Technology, Bombay
-**Summer Research Intern**  
-📍 _Bombay, Maharashtra_  
-🗓️ _June 2023 – August 2023_  
-- Implemented a novel approach to enhance the resolution and visual quality of single images using Generative Adversarial Networks (GAN) and optimization algorithms, supervised by Dr. Kshitij Jadhav.
+- 📫 How to reach me **rathoreashish146@gmail.com**
 
-### Indian Institute of Technology, Patna
-**Summer Research Intern**  
-📍 _Patna, Bihar_  
-🗓️ _June 2023 – August 2023_  
-- Developed a deep neural network for predicting flood stages using time series data, incorporating CNN, LSTM, Bi-LSTM, GRU, Bi-GRU, and Attention Mechanism under the supervision of Prof. Rajiv Misra.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m58IRIGXQeLVVyLGDDU3MjRaGg5M5WwJ/view?usp=sharing](https://drive.google.com/file/d/1m58IRIGXQeLVVyLGDDU3MjRaGg5M5WwJ/view?usp=sharing)
 
-### STBG (Set Time Bound Goal)
-**Software Engineer Intern - Full Stack**  
-📍 _Aligarh, Uttar Pradesh_  
-🗓️ _Dec 2022 – Jan 2023_  
-- Developed a web portal for STBG to update and upload data for 10k counseled students.
-- Created a separate admin dashboard to track other members.
-- Technologies used: PHP, Material-UI, HTML, CSS, Bootstrap, JavaScript, MySQL.
+- ⚡ Fun fact **I am a very extrovert person**
 
-## 🔬 Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rathore-ashish-k76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore-ashish-k76/" height="30" width="40" /></a>
+<a href="https://kaggle.com/aram76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aram76" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/users/syntexerror" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="users/syntexerror" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rathoreashish146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rathoreashish146" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rathoreashish146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rathoreashish146/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rathoreashish146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rathoreashish146/" height="30" width="40" /></a>
+</p>
 
-### Medical Chatbot
-- Spearheaded the development of an innovative Medical Chatbot powered by cutting-edge technology, providing personalized health advice, precise symptom analysis, and seamless access to healthcare resources.
-- Engineered an advanced medical chatbot leveraging the state-of-the-art GPT-3.5 model, fine-tuned with Retrieval-Augmented Generation (RAG) technology, to accurately predict diseases based on symptoms and extract relevant symptom patterns.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### NeuroMelodia
-- Developed deep learning models utilizing LSTM and WaveNet to generate piano music tones from MIDI and ABC Sheet Music data.
-- Leveraged the Music21 library for MIDI data handling and utilized ABC Sheet Music alongside an external converter to produce real music outputs.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rathoreashish146@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rathoreashish146@gmail.com" /></a><a href="https://ko-fi.com/rathoreashish146@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rathoreashish146@gmail.com" /></a></p><br><br>
 
-### EmoSenseAI
-- Implemented NLP techniques and a hybrid ML + DL approach (SVM and LSTM) to optimize emotion recognition accuracy.
-- Achieved superior results in emotion analysis through innovative architecture integration.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathoreashish146&show_icons=true&locale=en&layout=compact" alt="rathoreashish146" /></p>
 
-### WalmartSalesLens
-- Led comprehensive analysis of Walmart sales data, extracting insights on top-performing products, sales trends, and customer behavior.
-- Utilized a Kaggle dataset to optimize sales strategies and enhance revenue generation. Developed SQL queries for data manipulation and conducted exploratory analysis for actionable insights.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathoreashish146&show_icons=true&locale=en" alt="rathoreashish146" /></p>
 
-## 🛠️ Technical Skills
-
-**Languages:** C++, C, Python, Java (familiar), JavaScript, HTML/CSS, PHP  
-**Libraries/Frameworks:** PyTorch, TensorFlow, Keras, Bootstrap, Matplotlib, Pandas, Sklearn, NumPy, Streamlit  
-**Tools/Platforms:** Google Colab, VS Code, PyCharm, Jupyter Notebook, Power BI, Tableau, GitHub, MySQL, SQL, MS Excel  
-**IT Constructs:** Data Structures, DBMS, OOPs, Data Science, Data Mining, Feature Engineering, AI/ML, MLOps, Prompt Engineering
-
-## 📚 Publications
-
-- **Enhancing Movie Recommendation Systems Using LLM:** Uncovering Challenges and Leveraging Chain of Thoughts. (under review)
-
-## 🎓 Education
-
-**Zakir Husain College of Engineering and Technology**  
-_Bachelor of Technology in Computer Engineering_  
-_GPA: 8.57_  
-🗓️ _Dec 2021 – June 2025_  
-📍 _Aligarh, Uttar Pradesh_
-
-**Nagar Nigam Inter College**  
-_12th Board - U.P. Board - PCM_  
-🗓️ _Mar 2018 – Apr 2020_  
-📍 _Agra, Uttar Pradesh_
-
-### 📚 Relevant Coursework
-- Data Structures
-- Software Methodology
-- Algorithms Analysis
-- Database Management
-- Artificial Intelligence
-- Competitive Programming
-- Computer Architecture
-- Deep Learning
-- Natural Language Processing
-- Object-Oriented Programming
-- Large Language Models
-- Computer Vision
-- Data Mining
-- Data Science
-
-## 🏆 Awards and Achievements
-
-- Won the software hackathon organized by AMU ML Club
-- Rank 4 in Code Heat Coding Contest conducted by CodeChef ZHCET
-- Top 0.5% coder at Coding Ninjas Studio
-- Rating 2700+ at Code Studio
-- Rating 1530+ at LeetCode
-- Institution rank 21 on GeeksforGeeks
-- Rating 1620+ at CodeChef
-- Institution rank 14 on InterviewBit
-- 5 Star in C++ at HackerRank
-- 3 Star at CodeChef
-- AIR 18 in AMUEEE Exam
-- AIR 1192 in COMEDK
-- AIR 1762 in UPSEE 2020
-- 98.95 percentile in MHT CET
-- Topped my class in 10th, 11th, and 12th
-- Rank 1 in Agra in Baluni Spardha Test and won ₹10,000 cash prize in 2019
-- Rank 1 in Agra in Baluni Spardha Test and won ₹10,000 cash prize in 2020
-- Received 100% scholarship for class 11th from Baluni Classes, Agra
-- Received 100% scholarship for class 12th from Baluni Classes, Agra
-
-## 🚀 Leadership and Extracurricular Activities
-
-- Lead CodeChef ZHCET as CP Lead 2022
-- Active Member of AMU Robo Club
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathoreashish146&" alt="rathoreashish146" /></p>
