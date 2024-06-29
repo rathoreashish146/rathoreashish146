@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">Passionate Machine Learning Enthusiast | AI Research Intern | Innovator</h3>
-
+**📧 Email:** [rathoreashish146@gmail.com](mailto:rathoreashish146@gmail.com)  
+**🔗 LinkedIn:** [linkedin.com/in/rathore-ashish-k76](https://www.linkedin.com/in/rathore-ashish-k76)  
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rathoreashish146&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
