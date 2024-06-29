@@ -46,11 +46,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Support:</h3>
-<p align="left">
-  <a href="https://ko-fi.com/rathoreashish146@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" /></a>
-</p>
-
 <p>&nbsp;</p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathoreashish146&show_icons=true&locale=en&layout=compact" alt="Top Languages Used" /></p>
