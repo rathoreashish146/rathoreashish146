@@ -1,123 +1,91 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-
-<h3 align="center">I'm a passionate Machine Learning and Quantitative Researcher with experience in real-time stock prediction, LLM integration, and multimodal recommendation systems. I enjoy solving challenging problems and building impactful solutions.</h3>
+<h3 align="center">Machine Learning Researcher | Quantitative Strategist | AI Solutions Developer</h3>
 
 <p align="center">
   <a href="mailto:rathoreashish146@gmail.com">📧 Email</a> | 
-  <a href="https://www.linkedin.com/in/rathore-ashish-k76">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rathore-ashish-k76">🔗 LinkedIn</a> |
+  <a href="https://kaggle.com/aram76">📊 Kaggle</a> |
+  <a href="https://leetcode.com/rathoreashish146/">💻 LeetCode</a>
 </p>
 
-## 🎯 Career Objective
-
-Driven Machine Learning enthusiast with hands-on experience in real-time stock prediction, LLM integration, and multimodal recommendation systems. Seeking to leverage my expertise in AI/ML and data science in a dynamic and innovative environment.
-
-## ⚡ Fun Fact
-
-I love exploring new technologies and experimenting with them in my spare time!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rathoreashish146&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rathoreashish146" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Developing real-time stock prediction models** at Charpixel Technologies.
-- 🌱 Learning **Advanced Deep Learning, GANs, MLOps, NLP Optimization**.
-- 👯 Open to collaborations in:
-  - AI/ML open-source projects
-  - Research on LLM applications
-  - AI-driven startups in healthcare, finance, or robotics.
-- 🤝 Seeking insights on **LLM integration into robotic systems** at IISc.
-- 💬 Passionate about discussing **Machine Learning, LLMs, GANs, NLP, and AI in finance**.
-- 📝 Regularly share insights on [LinkedIn](https://www.linkedin.com/in/rathoreashish-k76).
+## 🚀 Research Interests
+- Computer Vision & Medical Imaging
+- Natural Language Processing & LLMs
+- Explainable AI & AI for Healthcare
+- Quantitative Finance & Algorithmic Trading
 
 ## 💼 Experience
 
-### Charpixel Technologies, Noida, UP  
-**Machine Learning Intern** _(June 2024 – Present)_  
-- Built real-time stock prediction models integrating time series analysis and sentiment data.
+### STARlab Capital, Lucknow
+**Quantitative Researcher** _(April 2025–Present)_  
+• Researched Alpha strategies for multi-asset trading (stocks, options, commodities, FX)  
+• Developed Python-based backtesting frameworks for HFT systems
 
-### Indian Institute of Science (IISc), Bangalore  
-**Summer Research Intern** _(June 2024 – Present)_  
-- Researching LLM integration into robotics under Prof. Shishir N. Y. Kolathaya.
+### Charpixel Technologies, Noida
+**Machine Learning Engineer** _(June 2024–Aug 2024)_  
+• Built real-time stock prediction models with 87.9% accuracy (NSE data)  
+• Engineered hybrid time series models with sentiment analysis integration
 
-### SONY Research India, Patna  
-**Research Intern** _(Jan 2024 – Present)_  
-- Developed multi-modal recommendation systems using LLMs under Dr. Sriparna Saha.
+### Indian Institute of Science (IISc)
+**Research Intern - Robotics & LLMs** _(June 2024–Aug 2024)_  
+• Implementing LLMs as cognitive cores for quadruped robots  
+• Working with Prof. Shishir N.Y. Kolathaya on GenAI integration
 
-### IIT Roorkee  
-**Winter Research Intern** _(Jan 2024 – Present)_  
-- Conducted gender-specific stress detection using ECG and EEG signals under Prof. Sparsh Mittal.
+### Sony Research India (IIT Patna Collab)
+**ML Research Intern** _(Jan 2024–May 2024)_  
+• Developed multi-modal recommender system using GPT-3.5 Turbo  
+• Created data augmentation pipeline (3.5x data coverage improvement)
 
-### IIT Bombay  
-**Summer Research Intern** _(June 2023 – Aug 2023)_  
-- Enhanced image resolution using GANs under Dr. Kshitij Jadhav.
+## 🛠 Projects
 
-### IIT Patna  
-**Summer Research Intern** _(June 2023 – Aug 2023)_  
-- Designed deep neural networks for flood stage prediction under Prof. Rajiv Misra.
+### Medical Chatbot (GPT-3.5 + RAG)
+`Python` `LangChain` `Healthcare AI`  
+• AI healthcare advisor with 89% symptom recognition accuracy  
+• Integrated medical knowledge bases with real-time analysis
 
-### STBG (Set Time Bound Goal), Aligarh  
-**Software Engineer Intern (Full Stack)** _(Dec 2022 – Jan 2023)_  
-- Built a student counseling data portal using PHP, Material-UI, JavaScript, and MySQL.
+### NaviData Analytics Platform
+`GPT-4` `SQL` `Data Visualization`  
+• Natural language to SQL converter (95% query accuracy)  
+• Reduced complex data visualization time by 87%
 
-## 📚 Publications
+### Flood Prediction System (IIT Patna)
+`CNN-LSTM` `Attention Mechanism`  
+• Hybrid architecture reduced prediction error by 76.5%  
+• Implemented Bi-LSTM/Bi-GRU ensembles for temporal patterns
 
-- **Enhancing Movie Recommendation Systems Using LLM:** Uncovering Challenges and Leveraging Chain of Thoughts. _(under review)_
+## 📚 Education
 
-## 🎓 Education
+**Zakir Husain College of Engineering, AMU**  
+B.Tech Computer Engineering (GPA: 8.76)  
+*Relevant Coursework:* Deep Learning, NLP, MLOps, Algorithmic Trading
 
-### Zakir Husain College of Engineering and Technology, AMU  
-**B.Tech in Computer Engineering** _(Dec 2021 – June 2025)_  
-_GPA: 8.57_
+## 🏆 Achievements
+- AIR 1114 GATE Data Science & AI 2025
+- AMU ML Club Hackathon Winner
+- CodeChef ZHCET CP Lead (2022)
+- Top 0.5% Coder @ Coding Ninjas
+- 5⭐ C++ (HackerRank), 3⭐ CodeChef
 
-### 📚 Relevant Coursework
+## 🔧 Tech Stack
+**Languages:** Python, C++, SQL, Java  
+**ML:** PyTorch, TensorFlow, Keras, OpenCV  
+**Tools:** AWS, GCP, Docker, Power BI, Tableau  
+**Quant:** Backtrader, QuantLib, Riskfolio-Lib  
 
-- Data Structures & Algorithms  
-- Artificial Intelligence & NLP  
-- Competitive Programming  
-- Deep Learning & Computer Vision  
-- Data Science & Mining  
-- Large Language Models & MLOps  
+## 📝 Publications
+- **Enhancing Recommendation Systems with LLMs** (Under Review)
+- **ABO Blood Type Detection System** (Under Review)
 
-## 🏆 Awards & Achievements
+## 🤝 Leadership
+- Mentored 500+ students in C/DSA (STBG YouTube 130k+ subs)
+- AMU Robo Club Core Member
+- Career Guidance for 200+ students
 
-- 🥇 Winner, AMU ML Club Software Hackathon  
-- 🏆 Rank 4, Code Heat Coding Contest (CodeChef ZHCET)  
-- 🏅 Top 0.5% coder at Coding Ninjas Studio  
-- 🔥 Rating 2700+ at Code Studio, 1530+ at LeetCode, 1620+ at CodeChef  
-- 🏆 Institution Rank 21 on GeeksforGeeks, 14 on InterviewBit  
-- 🏅 5 Star in C++ at HackerRank  
-- 🏆 AIR 18 in AMUEEE | AIR 1192 in COMEDK | AIR 1762 in UPSEE 2020  
-- 🥇 98.95 percentile in MHT CET  
-- 🎖️ Topper in 10th, 11th, and 12th Grade  
-- 💰 Rank 1 in Agra, Baluni Spardha Test (₹10,000 Prize, 2019 & 2020)  
-- 🎓 100% Scholarship for 11th & 12th at Baluni Classes, Agra  
-
-## 🤝 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/rathore-ashish-k76/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" /></a>
-  <a href="https://kaggle.com/aram76" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="60" width="60" /></a>
-  <a href="https://www.codechef.com/users/syntexerror" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="60" width="60" /></a>
-  <a href="https://www.hackerrank.com/rathoreashish146" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="60" width="60" /></a>
-  <a href="https://www.leetcode.com/rathoreashish146/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="60" width="60" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/rathoreashish146/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="60" width="60" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rathoreashish146&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rathoreashish146" alt="GitHub Trophies" />
+  </a>
 </p>
 
-## 🛠 Languages & Tools
-
-- Python, Java, C++
-- TensorFlow, PyTorch, Scikit-Learn
-- Django, Flask, FastAPI
-- SQL, PostgreSQL, MongoDB
-- AWS, Docker, Kubernetes, CI/CD
-- Git, GitHub, Jupyter Notebook
-
-🚀 Always eager to learn, collaborate, and build impactful AI solutions!
+🚀 Always pushing boundaries in AI/ML and Quantitative Research!
