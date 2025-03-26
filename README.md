@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 
-<h3 align="center">Passionate Machine Learning Enthusiast | AI Research Intern | Innovator</h3>
+<h3 align="center">I'm a passionate Machine Learning and Quantitative Researcher with experience in real-time stock prediction, LLM integration, and multimodal recommendation systems. I enjoy solving challenging problems and building impactful solutions.</h3>
 
 <p align="center">
   <a href="mailto:rathoreashish146@gmail.com">📧 Email</a> | 
